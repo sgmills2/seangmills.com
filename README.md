@@ -1,2 +1,1 @@
-# crearc.github.io
-personal website
+# ericmills.io
