@@ -2,4 +2,6 @@
 title: Eric Mills
 ---
 
-Hello World!
+
+<canvas id="game"></canvas>
+<script src="assets/js/game.js"></script>
