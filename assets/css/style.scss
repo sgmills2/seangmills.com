@@ -4,24 +4,36 @@
 @import "{{ site.theme }}";
 
 h1 {
-  font-size: 100px;
+  font-size: 5em;
+  font-weight: 600;
+  color: #49AEDD;
+}
+
+* {
+  font-family: 'Roboto Slab', serif;
 }
 
 
 .drag-canvas {
-    left: 0;
-    position: absolute;
-    top: 0;
+  left: 0;
+  position: absolute;
+  top: 0;
 }
 
 canvas {
-    -webkit-user-select: none; /* prevents the 'copy' option > http://www.bernskiold.com/2011/02/02/tips-and-tricks-for-ios-web-development/ */
-       -moz-user-select: none;
-            user-select: none;
+  -webkit-user-select: none; /* prevents the 'copy' option > http://www.bernskiold.com/2011/02/02/tips-and-tricks-for-ios-web-development/ */
+  -moz-user-select: none;
+  user-select: none;
 }
 
 .allow {
-    margin-top: 1em;
-    text-align: center;
-    width: 760px;
+  margin-top: 1em;
+  text-align: center;
+  width: 760px;
+}
+
+.main-content {
+  font-size: 2em;
+  font-weight: 600;
+  color: #4B4B4B;
 }
