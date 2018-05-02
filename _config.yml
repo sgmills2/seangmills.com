@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: [Eric Mills]
 description: ["Software Engineer, Tech Entrepreneur, Y Combinator Alum, UIUC Alum"]
-#google_analytics: [Your Google Analytics tracking ID]`
+google_analytics: UA-118575530-1
 
 sass:
   sass_dir: assets/css
