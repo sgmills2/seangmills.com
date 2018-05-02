@@ -24,6 +24,10 @@ canvas {
   -webkit-user-select: none; /* prevents the 'copy' option > http://www.bernskiold.com/2011/02/02/tips-and-tricks-for-ios-web-development/ */
   -moz-user-select: none;
   user-select: none;
+  display: block;
+  position: fixed;
+  bottom: -250px;
+  left: -100px;
 }
 
 .allow {
