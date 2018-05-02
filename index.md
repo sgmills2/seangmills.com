@@ -15,6 +15,6 @@ I have deep roots in the entrepreneurial communities of Chicago, SF, and Champai
 
 I received my BS in Computer Science from the University of Illinois at Urbana-Champaign.
 
-Fun fact: I love dance.
+Fun fact: I love to dance.
 
 Interested in hiring me? I do consulting. Email me at [me@ericmills.io](mailto:me@ericmills.io).
