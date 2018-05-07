@@ -7,6 +7,8 @@ I think about products every day.
 I care about “untechnology,”
 building things that take humans out of the loop so they can live happy and healthy.
 
+I value practicality and application over theory (whilst using it to prove points).
+
 I specialize in web and mobile application architecture and prioritize product UI/UX. I love data science infrastructure, hardware, and IOT.
 
 I’ve worked on [a smart target for shooting ranges](https://lithit.com), [motion tracking for wearable devices](http://www.chicagotribune.com/bluesky/originals/ct-rithmio-seed-funding-bsi-20150630-story.html), and [a data analytics platform](https://civisanalytics.com).
