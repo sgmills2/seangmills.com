@@ -7,7 +7,7 @@ I think about products every day.
 I care about “untechnology,”
 building things that take humans out of the loop so they can live happy and healthy.
 
-I value practicality and application over theory (whilst using it to prove points).
+I focus on practicality and application whilst valuing theory to prove points.
 
 I specialize in web and mobile application architecture and prioritize product UI/UX. I love data science infrastructure, hardware, and IOT.
 
