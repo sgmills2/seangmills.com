@@ -9,9 +9,9 @@ building things that take humans out of the loop so they can live happy and heal
 
 I focus on practicality and application whilst valuing theory to prove points.
 
-I specialize in web and mobile application architecture and prioritize product UI/UX. I love data science infrastructure, hardware, and IOT.
+I specialize in full stack application architecture and prioritize product UI/UX. I love data science infrastructure, IOT, and cyber security.
 
-I’ve worked on [a smart target for shooting ranges](https://lithit.com), [motion tracking for wearable devices](http://www.chicagotribune.com/bluesky/originals/ct-rithmio-seed-funding-bsi-20150630-story.html), and [a data analytics platform](https://civisanalytics.com).
+I’ve worked on [human layer email security with ML and graphs](https://mimecast.com), [a smart target for shooting ranges](https://lithit.com), [motion tracking for wearable devices](http://www.chicagotribune.com/bluesky/originals/ct-rithmio-seed-funding-bsi-20150630-story.html), and [a data analytics platform](https://civisanalytics.com).
 
 I have deep roots in the entrepreneurial communities of Chicago, SF, and Champaign. I’m a [YCombinator alumni (W17)](http://www.ycombinator.com/) and I started the entrepreneurship organization [Founders @ UIUC](http://founders.illinois.edu/). I was also a student fellow for Chicago Ventures.
 
