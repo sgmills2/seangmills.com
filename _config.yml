@@ -22,7 +22,7 @@ title: Eric Mills
 description: Software Engineer, Tech Entrepreneur, Y Combinator Alum, UIUC Alum
 email: me@ericmills.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ericmills.io" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-118575530-1
 twitter_username: ericmillsio
 github_username: ericmillsio
